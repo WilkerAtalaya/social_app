@@ -2,4 +2,3 @@
     "networks": ["mastodon", "pixelfed"],
     "tokens": ["my-mastodon-token", "my-pixelfed-token"]
 }
-  
